@@ -24,6 +24,7 @@ def long_planeteer_calls(planeteer_calls)
       greater = TRUE
     end
   end
+  greater
 end
 
 def find_valid_calls(planeteer_calls)
